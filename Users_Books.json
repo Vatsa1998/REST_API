@@ -1,0 +1,23 @@
+{
+    "data":
+[
+  {
+    "bookId": 1,
+    "bookTitle": "The Great Gatsby",
+    "studentId": 101,
+    "studentName": "John Doe"
+  },
+  {
+    "bookId": 2,
+    "bookTitle": "To Kill a Mockingbird",
+    "studentId": 102,
+    "studentName": "Jane Smith"
+  },
+  {
+    "bookId": 3,
+    "bookTitle": "Pride and Prejudice",
+    "studentId": 103,
+    "studentName": "David Johnson"
+  }
+]
+}
